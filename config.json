@@ -1,0 +1,17 @@
+{
+    "params":
+    {
+        "local_server" : "True",
+        "local_uri" : "mysql://root:@localhost/codingthunder",
+        "prod_uri" : "mysql://root:@localhost/codingthunder",
+        "gh_url" : "https://github.com/topclass",
+        "fb_url" : "https://facebook.com/topclass",
+        "tw_url" : "https://twitter.com/topclass",
+        "web_name" : "Top CLass Bangle Store",
+        "tag_line" : "Adorn your wrists with the shimmer of glass - shop our bangles now!",
+        "address" : "House No.4, Peepal Wali Gali, Gali Bohran, Joshiyan Mohalla, Firozabad-283203",
+        "email_id" : "guptamanish09873@gmail.com",
+        "mobile" : "+91 983 710 1813"
+
+    }
+}
